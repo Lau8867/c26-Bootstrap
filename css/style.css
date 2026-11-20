@@ -1,0 +1,38 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+
+.line {
+  width: 180px;
+  background-color: white;
+  height: 2px;
+}
+
+h1,
+p,
+i {
+  color: white;
+}
+
+#portafolio .line,
+#contactame .line {
+  background-color: black;
+}
+
+#portafolio i,
+#contactame i {
+  color: black;
+}
+
+.p-12 {
+  padding: 8rem;
+}
+
+#sobre-mí h2 {
+  color: white;
+}
+
+footer {
+  color: white;
+}
