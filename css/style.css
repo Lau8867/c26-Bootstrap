@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  font-family: Roboto, Arial, sans-serif;
+}
+
 .avatar {
   width: 200px;
   height: 200px;
@@ -29,8 +35,14 @@ i {
   padding: 8rem;
 }
 
-#sobre-mí h2 {
+#sobre-mí h2,
+#Herramientas h2 {
   color: white;
+}
+
+.tipos p {
+  color: black;
+  font-size: 16px;
 }
 
 footer {
